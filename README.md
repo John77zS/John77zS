@@ -47,15 +47,6 @@ Combino conocimientos de **Ingeniería en Sistemas** con experiencia en **diseñ
 
 ---
 
-
-## 📊 Estadísticas de GitHub
-
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=John77zS&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=John77zS&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 ## 📫 Contacto
 
 - 📧 Correo: jzuritajsalazar@gmail.com

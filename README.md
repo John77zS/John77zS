@@ -47,16 +47,6 @@ Combino conocimientos de **Ingeniería en Sistemas** con experiencia en **diseñ
 
 ---
 
-## 📌 Proyecto destacado
-
-### 🌐 Portafolio Personal
-
-Sitio web personal con CV digital y portafolio creativo/tecnológico desarrollado con HTML, CSS y JavaScript.
-
-🔗 [Ver portafolio](https://john77zs.github.io/Personal-Profile/)  
-📁 [Ver repositorio](https://github.com/John77zS/Personal-Profile)
-
----
 
 ## 📊 Estadísticas de GitHub
 

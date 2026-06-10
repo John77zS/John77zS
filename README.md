@@ -60,7 +60,7 @@ Combino conocimientos de **Ingeniería en Sistemas** con experiencia en **diseñ
 
 - 📧 Correo: jzuritajsalazar@gmail.com
 - 🌐 Portafolio: https://john77zs.github.io/Personal-Profile/
-- 💼 LinkedIn: agrega aquí tu enlace de LinkedIn
+- 💼 LinkedIn: https://www.linkedin.com/in/john-jairo-zurita-salazar-927718229
 
 ---
 
